@@ -11,6 +11,8 @@ ou / or
 
 ## 📥 Installation
 
+== ⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où ! ==
+
 ### Prérequis / Prerequisites
 - Android 15 (API 29) ou supérieur / or higher
 - ~100 MB d'espace de stockage / storage space
@@ -78,8 +80,6 @@ Si une nouvelle version de l'APK est disponible :
 - **Réautorise temporairement** l'installation depuis des sources inconnues (étapes ci-dessus).
 - **Installe** le nouvel APK par-dessus l'ancien (tes données seront **conservées**).
 - **Désactive à nouveau** les sources inconnues.
-
-> ⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !
 
 ---
 
