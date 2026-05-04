@@ -15,10 +15,10 @@
 
 ---
 
-# ⚠️ Avant d’installer / Before Installing
+# ⚠️ Avant d’installer une nouvelle version / Before Installing new version
 
-**FR** — Avant une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où.  
-**EN** — Before any major update, make a backup (`.bonsaibak`) just in case.
+**FR** — Avant une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où. Si c'est la 1ère installation, ignore ce message.
+**EN** — Before any major update, make a backup (`.bonsaibak`) just in case.If it's your 1st install, ignore this message.
 
 ---
 
