@@ -1,6 +1,4 @@
----
-
-# 🌳 BonsaiViu  
+# 🌳 BonsaiViu
 
 **FR** - Une application Android moderne pour gérer votre collection de bonsaïs : photos, entretiens, rappels intelligents.  
 **EN** - A modern Android app to manage your bonsai collection: photos, maintenance tracking, smart reminders.**
