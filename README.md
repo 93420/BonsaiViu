@@ -5,9 +5,9 @@ Une application Android moderne pour gérer votre collection de bonsaïs avec ph
 **A modern Android app to manage your bonsai collection with photos, maintenance tracking, and smart reminders.**
 
 ## Téléchargement / Download
-[mybonsai.v0.16.4.apk](https://github.com/93420/Mybonsai/releases/download/mybonsai.v0.16.4.apk/mybonsai.v0.16.4.apk)
+[mybonsai.v0.16.4.apk](https://github.com/93420/BonsaiViu/releases/download/bonsaiviu.v0.16.7.apk/bonsaiviu.v0.16.7.apk)
 ou / or
-[Release](https://github.com/93420/Mybonsai/tags)
+[Release](https://github.com/93420/BonsaiViu/tags)
 
 ## 📥 Installation
 
