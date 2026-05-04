@@ -6,7 +6,8 @@ Une application Android moderne pour gérer votre collection de bonsaïs avec ph
 
 ## Téléchargement / Download
 [mybonsai.v0.16.4.apk](https://github.com/93420/Mybonsai/releases/download/mybonsai.v0.16.4.apk/mybonsai.v0.16.4.apk)
-
+ou / or
+[Release](https://github.com/93420/Mybonsai/tags)
 
 ## 📥 Installation
 
