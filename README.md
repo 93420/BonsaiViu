@@ -15,12 +15,73 @@ ou / or
 - Android 15 (API 29) ou supérieur / or higher
 - ~100 MB d'espace de stockage / storage space
 
-### Installation depuis APK / Install from APK
-1. Téléchargez le fichier APK depuis les [Releases](https://github.com/christopherre/mybonsai/releases)
-2. Activez l'installation depuis des sources inconnues sur votre appareil
-3. Ouvrez le fichier APK et suivez les instructions d'installation
+### Installation de l'APK sur ton téléphone Android
 
-**Download the APK from Releases, enable unknown sources, and install.**
+Si tu as reçu l'application sous forme de fichier `.apk` (au lieu de la télécharger depuis le Play Store), voici comment l'installer.
+
+### Étape 1 : Autoriser l'installation depuis des sources inconnues
+
+Par défaut, Android bloque l'installation d'applications qui ne viennent pas du Play Store. Tu dois autoriser cette installation **temporairement**.
+
+#### Sur Android 8 et versions ultérieures (recommandé)
+
+1. **Télécharge** ou **copie** le fichier `.apk` sur ton téléphone (par email, câble USB, Google Drive, etc.).
+2. **Ouvre** le fichier `.apk` depuis ton gestionnaire de fichiers ou depuis les téléchargements.
+3. Une fenêtre s'affiche : **« Pour des raisons de sécurité, votre téléphone n'est pas autorisé à installer des applications inconnues provenant de cette source. »**
+4. Tape sur **« Paramètres »** dans cette fenêtre.
+5. Active le bouton **« Autoriser cette source »** (ou **« Autoriser les installations »**).
+6. Reviens en arrière (bouton ← ou geste retour).
+
+#### Sur Android 7 et versions antérieures
+
+1. Ouvre **Paramètres → Sécurité** (ou **Paramètres → Confidentialité**).
+2. Cherche l'option **« Sources inconnues »** et **active-la**.
+3. Accepte l'avertissement de sécurité.
+
+---
+
+### Étape 2 : Installer l'APK
+
+1. **Ouvre** à nouveau le fichier `.apk` (depuis tes téléchargements ou ton gestionnaire de fichiers).
+2. Tape sur **« Installer »**.
+3. Attends la fin de l'installation (quelques secondes).
+4. Une fois terminé, tape sur **« Ouvrir »** pour lancer l'app, ou **« Terminer »** pour revenir au menu.
+
+✅ L'application **BonsaiViu** est maintenant installée ! Tu la retrouves dans ton tiroir d'applications, comme n'importe quelle autre app.
+
+---
+
+### Étape 3 : Revenir à la configuration sécurisée (recommandé)
+
+Par sécurité, il est **fortement recommandé** de **désactiver** l'installation depuis des sources inconnues une fois l'app installée. Cela évite d'installer accidentellement des applications malveillantes à l'avenir.
+
+#### Sur Android 8 et versions ultérieures
+
+1. Ouvre **Paramètres → Applications** (ou **Paramètres → Apps et notifications → Accès spécial**).
+2. Cherche **« Installation d'applications inconnues »** (ou **« Installer des applications inconnues »**).
+3. Sélectionne l'app que tu as utilisée pour installer l'APK (ex. : **Chrome**, **Fichiers**, **Drive**, **Gmail**…).
+4. **Désactive** le bouton **« Autoriser cette source »**.
+
+#### Sur Android 7 et versions antérieures
+
+1. Ouvre **Paramètres → Sécurité**.
+2. **Désactive** l'option **« Sources inconnues »**.
+
+🔒 Ton téléphone est de nouveau protégé contre les installations non autorisées.
+
+---
+
+### Mises à jour de l'application
+
+Si une nouvelle version de l'APK est disponible :
+- **Télécharge** le nouveau fichier `.apk`.
+- **Réautorise temporairement** l'installation depuis des sources inconnues (étapes ci-dessus).
+- **Installe** le nouvel APK par-dessus l'ancien (tes données seront **conservées**).
+- **Désactive à nouveau** les sources inconnues.
+
+> ⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !
+
+---
 
 ## 📸 Screenshots
 
