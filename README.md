@@ -22,11 +22,11 @@ Une application Android moderne pour gérer votre collection de bonsaïs avec ph
 
 | Accueil / Home | Bonsaï | Pot |
 |---|---|---|
-| ![Screenshot 1](screenshots/home.png) | ![Screenshot 2](screenshots/detail.png) | ![Screenshot 3](screenshots/pot.png) |
+| <img src="screenshots/home.png" width="250" alt="Accueil / Home"> | <img src="screenshots/detail.png" width="250" alt="Bonsaï"> | <img src="screenshots/pot.png" width="250" alt="Pot"> |
 
 | Entretiens | Galerie | Rappels |
 |---|---|---|
-| ![Screenshot 4](screenshots/care.png) | ![Screenshot 5](screenshots/gallery.png) | ![Screenshot 6](screenshots/reminders.png) |
+| <img src="screenshots/care.png" width="250" alt="Entretiens"> | <img src="screenshots/gallery.png" width="250" alt="Galerie"> | <img src="screenshots/reminders.png" width="250" alt="Rappels"> |
 
 ## 🧭 Guide des écrans / Screen Guide
 
