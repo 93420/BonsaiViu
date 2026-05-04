@@ -11,7 +11,7 @@ ou / or
 
 ## 📥 Installation
 
-== ⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où ! ==
+==⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !==
 
 ### Prérequis / Prerequisites
 - Android 15 (API 29) ou supérieur / or higher
