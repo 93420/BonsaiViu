@@ -1,11 +1,11 @@
-# 🌳 MyBonsai
+# 🌳 BonsaiViu
 
 Une application Android moderne pour gérer votre collection de bonsaïs avec photos, entretiens et rappels intelligents.
 
 **A modern Android app to manage your bonsai collection with photos, maintenance tracking, and smart reminders.**
 
 ## Téléchargement / Download
-[mybonsai.v0.16.7.apk](https://github.com/93420/BonsaiViu/releases/download/BonsaiViu.v0.16.7/bonsaivio.v0.16.7.apk)
+[bonsaiviu.v0.16.7.apk](https://github.com/93420/BonsaiViu/releases/download/BonsaiViu.v0.16.7/bonsaivio.v0.16.7.apk)
 ou / or
 [Release](https://github.com/93420/BonsaiViu/tags)
 
