@@ -11,9 +11,7 @@ ou / or
 
 ## 📥 Installation
 
-<span style="background-color: yellow;">⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !</span>
-
-$${\color{black}\⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !{\colorbox{yellow}{Highlighted Text}}}$$
+##⚠️ Important : **avant** une mise à jour majeure, fais une sauvegarde (`.bonsaibak`) au cas où !
 
 ### Prérequis / Prerequisites
 - Android 15 (API 29) ou supérieur / or higher
