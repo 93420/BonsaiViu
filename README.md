@@ -7,7 +7,7 @@ Available in English, French, Cataln, Spanish and Italian.
 **A modern Android app to manage your bonsai collection with photos, maintenance tracking, and smart reminders.**
 
 ## Téléchargement / Download
-[mybonsai.v0.16.7.apk](https://github.com/93420/BonsaiViu/releases/download/BonsaiViu.v0.16.7/bonsaivio.v0.16.7.apk)
+[mybonsai.v0.18.0.apk](https://github.com/93420/BonsaiViu/releases/download/BonsaiViu.v0.18.0/bonsaiviu.v0.18.0.apk)
 ou / or
 [Release](https://github.com/93420/BonsaiViu/tags)
 
